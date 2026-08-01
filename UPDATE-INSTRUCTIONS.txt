@@ -1,0 +1,21 @@
+TRUE GAIN — SERVICE CATEGORY LABEL UPDATE
+
+This ZIP contains the complete current website.
+
+Replace this file in GitHub:
+
+1. app/page.tsx
+
+No CSS, image or design-token files need changing.
+
+Changes:
+- Train → Coach
+- Recover → Treat
+- Perform → Transform
+
+The main service names remain:
+- Personal Training
+- Sports Massage
+- Complete Coaching
+
+Vercel will redeploy automatically after the commit.

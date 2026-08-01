@@ -1,0 +1,23 @@
+TRUE GAIN WEBSITE V2 — COMPLETE PROJECT
+
+Upload the CONTENTS of this folder to the root of the new GitHub repository.
+
+Required root files:
+- package.json
+- tsconfig.json
+- next-env.d.ts
+- .gitignore
+- README.md
+
+Required folders:
+- app
+- components
+- docs
+- public
+- styles
+
+Important:
+- app must contain page.tsx, layout.tsx and globals.css
+- do not create globals.tsx
+- keep all file and folder names exactly as supplied
+- connect Vercel only after every file has been committed to GitHub
